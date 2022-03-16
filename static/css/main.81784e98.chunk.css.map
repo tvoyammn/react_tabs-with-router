@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.scss"],"names":[],"mappings":"AAAA,KACE,YAAa,CACb,aAAA,CAAA,QAAS,CACV,UAGC,SAAU","file":"main.81784e98.chunk.css","sourcesContent":[".nav {\n  display: flex;\n  gap: 20px;\n}\n\n.selected {\n  color: red;\n}\n"]}
